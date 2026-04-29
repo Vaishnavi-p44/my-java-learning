@@ -1,3 +1,4 @@
+    // check weather the student has passed or failed based on marks
     public class IfElseExample {
     public static void main(String[] args) {
         int marks = 75;
