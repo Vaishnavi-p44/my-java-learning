@@ -17,3 +17,4 @@ class Main {
         System.out.println("Marks: " + s.getMarks());
     }
 }
+
